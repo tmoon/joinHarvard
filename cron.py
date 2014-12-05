@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests as rq
+import csv
 
 def get_all_clubs():
 	"""
